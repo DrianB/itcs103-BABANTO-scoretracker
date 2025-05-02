@@ -1,7 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
-from openpyxl import Workbook, load_workbook
-import os
+from openpyxl import load_workbook
+from openpyxl import Workbook
+
 
 
 def validate_input():
